@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/mehanana/mehanana/master/Hi 🌺 I’m Mehana!.gif" height="50" width="100" alt="👋 Hi there! I'm (Mehana(111| Nagarur))" title="👋 Hi there! I'm (Mehana(111| Nagarur)"/>]
+[<img src="https://raw.githubusercontent.com/mehanana/mehanana/master/Hi 🌺 I’m Mehana!.gif" height="500" width="1000" alt="👋 Hi there! I'm (Mehana(111| Nagarur))" title="👋 Hi there! I'm (Mehana(111| Nagarur)"/>]
 
 <h3 align="center">A Computer Science and Behavioral Neuroscience student at Northeastern University</h3>
 
