@@ -1,4 +1,4 @@
-## Hi there 👋
+[<img src="https://raw.githubusercontent.com/mehanana/mehanana/master/Hi! (1).gif" alt="👋 Hi there! I'm (Mehana(111| Nagarur))" title="👋 Hi there! I'm (Mehana(111| Nagarur)"/>]
 
 <h1 align="center">Hi 👋, I'm Mehana</h1>
 <h3 align="center">A Computer Science and Behavioral Neuroscience student at Northeastern University</h3>
