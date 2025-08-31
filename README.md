@@ -7,12 +7,21 @@
 </p>
 <h3 align="center">A Computer Science and Behavioral Neuroscience student at Northeastern University</h3>
 
+## About Me
+My name is Mehana, and I am a second-year Honors student at Northeastern University studying Computer Science and Behavioral Neuroscience. I am passionate about applying artificial intelligence to medicine to advance accessible and personalized healthcare. I’m eager to build on my skills, explore new technologies, and contribute to meaningful innovations that improve patient outcomes.
+
+## Technologies and Tools
+- Java, Python, HTML, CSS, JavaScript, TypeScript, PostgresSQL, Git/Github, Postman, Eclipse, VS Code, RESTful APIs
+
 ## Ask me about
 - Computer science
-- Python
 - Java
-- Typescript
 - Medicine
+- Acrylic painting
+- Mystery novels
+- Tennis
+- Board games
+- Crosswords
 - Dinosaurs
 - Space
 <!--
