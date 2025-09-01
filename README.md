@@ -42,6 +42,11 @@ Connections | Java | March 2025
 - Features include shuffling, deselecting all options, lives, resetting, restarting, and changing the color scheme
 - Code available upon request on GitHub
 
+## Let's Connect!
+- Email: nagarur.m@northeastern.edu
+- Github: https://github.com/mehanana
+- LinkedIn: linkedin.com/in/mehana-nagarur/
+- Website: mehana-n.netlify.app/
 
 ## Ask me about
 - Computer science
