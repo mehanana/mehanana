@@ -11,7 +11,17 @@
 My name is Mehana, and I am a second-year Honors student at Northeastern University studying Computer Science and Behavioral Neuroscience. I am passionate about applying artificial intelligence to medicine to advance accessible and personalized healthcare. I’m eager to build on my skills, explore new technologies, and contribute to meaningful innovations that improve patient outcomes.
 
 ## Technologies and Tools
-- Java, Python, HTML, CSS, JavaScript, TypeScript, PostgresSQL, Git/Github, Postman, Eclipse, VS Code, RESTful APIs
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+- HTML, CSS, JavaScript, PostgresSQL, Eclipse, VS Code, RESTful APIs, IntelliJ
 
 ## Experience
 Code4Community NEU | Software Developer | Boston, MA | January 2025 - Present                                    
