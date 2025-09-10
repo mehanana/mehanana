@@ -13,15 +13,15 @@ My name is Mehana, and I am a second-year Honors student at Northeastern Univers
 ## Technologies and Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%2361DAF)
-![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css&logoColor=%2361DAF)
+![HTML](https://img.shields.io/badge/html-%white.svg?style=for-the-badge&logo=html5&logoColor=%2361DAF)
+![CSS](https://img.shields.io/badge/css-%263ed2a.svg?style=for-the-badge&logo=css&logoColor=%2361DAF)
 ![Racket](https://img.shields.io/badge/racket-%2320232a.svg?style=for-the-badge&logo=racket&logoColor=%2361DAF)
 ![JavaScript](https://img.shields.io/badge/javascript-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=%white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%white.svg?style=for-the-badge&logo=postgresql&logoColor=%white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
