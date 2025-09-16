@@ -26,8 +26,8 @@ My name is Mehana, and I am a second-year Honors student at Northeastern Univers
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Eclipse](https://img.shields.io/badge/eclipse-%2320232a.svg?style=for-the-badge&logo=eclipse&logoColor=%2361DAF)
-![IntelliJ](https://img.shields.io/badge/intellij-%2320232a.svg?style=for-the-badge&logo=intellijidea&logoColor=%2361DAF)
+![Eclipse](https://img.shields.io/badge/eclipse-322957.svg?style=for-the-badge&logo=eclipse&logoColor=ea9b45)
+![IntelliJ](https://img.shields.io/badge/intellij-b94c7f.svg?style=for-the-badge&logo=intellijidea&logoColor=ffae45)
 
 
 ## Experience
