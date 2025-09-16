@@ -31,22 +31,22 @@ My name is Mehana, and I am a second-year Honors student at Northeastern Univers
 
 
 ## Experience
-Code4Community NEU | Software Developer | Boston, MA | January 2025 - Present                                    
+Code4Community NEU | Software Developer | Boston, MA | January 2025 - Present   
 - Collaborated with a 7 member team to design, develop, and test a new, organized recruitment platform
 - Implemented JavaScript, TypeScript and RESTful APIs with NestJS for efficient PostgreSQL management
 - Gained knowledge in backend and frontend development, resolving merge conflicts, and terminal commands
 
-Mathnasium | Math Tutor | South Windsor, CT | March 2023-August 2024; May 2025                                                                                         
-- Taught math concepts to students from 3rd to 11th grade, tailoring instruction to individuals
-- Provided 1:1 tutoring for SAT/AP test preparation, focusing on problem-solving and test-taking techniques
-
-Honors Program NEU | Honors Ambassador | Boston, MA | January 2025 - Present                                                                                                               
+Honors Program NEU | Honors Ambassador | Boston, MA | January 2025 - Present   
 - Represented the university’s honors program at Welcome Days, engaging with prospective students and families
 - Clarified doubts and shared personal experiences to highlight student life and opportunities the program offers
 
 FirstByte NEU | Volunteer | Boston, MA | September 2024 - Present
 - Developed instructional slideshows and coding exercises to teach high school students computer science skills
 - Presented an introductory Python workshop to students at Camp Harbor View, promoting accessibility of STEM education to younger learners
+
+Mathnasium | Math Tutor | South Windsor, CT | March 2023-August 2024; May 2025       
+- Taught math concepts to students from 3rd to 11th grade, tailoring instruction to individuals
+- Provided 1:1 tutoring for SAT/AP test preparation, focusing on problem-solving and test-taking techniques
 
 ## Projects
 ViTAL Hackathon Musculoskeletal Disorders Symptom Checker | JavaScript | March 2025
