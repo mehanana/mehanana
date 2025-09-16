@@ -21,7 +21,7 @@ My name is Mehana, and I am a second-year Honors student at Northeastern Univers
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![MySQL](https://img.shields.io/badge/mysql-d99539.svg?style=for-the-badge&logo=mysql&logoColor=2f648a)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-436593.svg?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
