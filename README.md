@@ -71,7 +71,7 @@ Connections | Java | March 2025
 
 ## Ask me about 
 <img align='right' src='dino gif.webp' width='200"'> 
-  <ul align ="left">
+  <ul>
     <li>Computer science</li>
     <li>Java</li>
     <li>Medicine</li>
