@@ -70,7 +70,7 @@ Connections | Java | March 2025
 - Website: mehana-n.netlify.app/
 
 ## Ask me about 
-<img align='right' src='dino gif.webp' width='200"'> 
+<img align='right' margin-right='20px' src='dino gif.webp' width='200"'> 
   <ul>
     <li>Computer science</li>
     <li>Java</li>
@@ -83,18 +83,3 @@ Connections | Java | March 2025
     <li>Dinosaurs</li>
     <li>Space</li>
   </ul>
-
-<!--
-**mehanana/mehanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Racket
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about computer science, medicine, dinosaurs, and space!
-- 📫 How to reach me: mehana.nagarur@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
--->
