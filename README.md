@@ -64,10 +64,10 @@ Connections | Java | March 2025
 - Code available upon request
 
 ## Let's Connect!
-- Email: nagarur.m@northeastern.edu
-- Github: https://github.com/mehanana
-- LinkedIn: linkedin.com/in/mehana-nagarur/
-- Website: mehana-n.netlify.app/
+<a href="https://www.linkedin.com/in/mehana-nagarur/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">
+<a href="nagarur.m@northeastern.edu" title="Email"><img width="22" src="images/hackerrank.png">
+<a href="https://github.com/mehanana" title="GitHub"><img width="22" src="images/stackoverflow.svg"> 
+<a href="https://www.mehana-n.netlify.app/" title="Personal Portfolio"><img width="22" src="images/instagram.svg"> 
 
 ## Ask me about 
   <img align="right" src="dino gif.webp" width="200">
