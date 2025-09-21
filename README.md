@@ -70,7 +70,7 @@ Connections | Java | March 2025
 - Website: mehana-n.netlify.app/
 
 ## Ask me about 
-<img margin=auto src='dino gif.webp' width='200"'> 
+<img margin=100px src='dino gif.webp' width='200"'> 
   <ul>
     <li>Computer science</li>
     <li>Java</li>
