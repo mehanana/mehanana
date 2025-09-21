@@ -70,16 +70,21 @@ Connections | Java | March 2025
 - Website: mehana-n.netlify.app/
 
 ## Ask me about 
-<img margin=100px src='dino gif.webp' width='200"'> 
-  <ul>
-    <li>Computer science</li>
-    <li>Java</li>
-    <li>Medicine</li>
-    <li>Acrylic painting</li>
-    <li>Mystery novels</li>
-    <li>Tennis</li>
-    <li>Board games</li>
-    <li>Crosswords</li>
-    <li>Dinosaurs</li>
-    <li>Space</li>
-  </ul>
+<div style="display: flex; align-items: flex-start;">
+  <div>
+    <h2>Ask me about</h2>
+    <ul>
+      <li>Computer science</li>
+      <li>Java</li>
+      <li>Medicine</li>
+      <li>Acrylic painting</li>
+      <li>Mystery novels</li>
+      <li>Tennis</li>
+      <li>Board games</li>
+      <li>Crosswords</li>
+      <li>Dinosaurs</li>
+      <li>Space</li>
+    </ul>
+  </div>
+  <img src="dino gif.webp" width="200">
+</div>
