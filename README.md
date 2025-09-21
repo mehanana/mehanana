@@ -69,18 +69,18 @@ Connections | Java | March 2025
 - LinkedIn: linkedin.com/in/mehana-nagarur/
 - Website: mehana-n.netlify.app/
 
-## Ask me about
-<img align='right' src='dino gif.webp' width='200"'>
-- Computer science
-- Java
-- Medicine
-- Acrylic painting
-- Mystery novels
-- Tennis
-- Board games
-- Crosswords
-- Dinosaurs
-- Space
+  <ul style="list-style-type: disc; margin-right: 20px;">
+    <li>Computer science</li>
+    <li>Java</li>
+    <li>Medicine</li>
+    <li>Acrylic painting</li>
+    <li>Mystery novels</li>
+    <li>Tennis</li>
+    <li>Board games</li>
+    <li>Crosswords</li>
+    <li>Dinosaurs</li>
+    <li>Space</li>
+  </ul>
 <!--
 **mehanana/mehanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
