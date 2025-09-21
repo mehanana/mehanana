@@ -70,9 +70,7 @@ Connections | Java | March 2025
 - Website: mehana-n.netlify.app/
 
 ## Ask me about 
-<div style="display: flex; align-items: center;">
-  <div>
-    <h2>Ask me about</h2>
+  <img align="right" src="dino gif.webp" width="200">
     <ul>
       <li>Computer science</li>
       <li>Java</li>
@@ -85,6 +83,3 @@ Connections | Java | March 2025
       <li>Dinosaurs</li>
       <li>Space</li>
     </ul>
-  </div>
-  <img src="dino gif.webp" width="200">
-</div>
