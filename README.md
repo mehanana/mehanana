@@ -70,7 +70,7 @@ Connections | Java | March 2025
 - Website: mehana-n.netlify.app/
 
 ## Ask me about 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: center;">
   <div>
     <h2>Ask me about</h2>
     <ul>
