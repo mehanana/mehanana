@@ -69,7 +69,9 @@ Connections | Java | March 2025
 - LinkedIn: linkedin.com/in/mehana-nagarur/
 - Website: mehana-n.netlify.app/
 
-  <ul style="list-style-type: disc; margin-right: 20px;">
+## Ask me about 
+<img align='right' src='dino gif.webp' width='200"'> 
+  <ul align ="left">
     <li>Computer science</li>
     <li>Java</li>
     <li>Medicine</li>
@@ -81,6 +83,7 @@ Connections | Java | March 2025
     <li>Dinosaurs</li>
     <li>Space</li>
   </ul>
+
 <!--
 **mehanana/mehanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
