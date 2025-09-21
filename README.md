@@ -67,7 +67,7 @@ Connections | Java | March 2025
 <a href="https://www.linkedin.com/in/mehana-nagarur/" title="LinkedIn Profile"><img width="75" src="linkedin-logo.png">
 <a href="nagarur.m@northeastern.edu" title="Email"><img width="75" src="email-logo.png">
 <a href="https://github.com/mehanana" title="GitHub"><img width="75" src="github-logo.png"> 
-<a href="https://www.mehana-n.netlify.app/" title="Personal Portfolio"><img width="75" src="name-logo.png"> 
+<a href="https://mehana-n.netlify.app/" title="Personal Portfolio"><img width="75" src="name-logo.png"> 
 
 ## Ask me about 
   <img align="right" src="dino gif.webp" width="200">
