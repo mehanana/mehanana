@@ -34,11 +34,15 @@ My name is Mehana, and I am a second-year Honors student at Northeastern Univers
 Code4Community NEU | Software Developer | Boston, MA | January 2025 - Present   
 - Collaborated with a 7 member team to design, develop, and test a new, organized recruitment platform
 - Implemented JavaScript, TypeScript and RESTful APIs with NestJS for efficient PostgreSQL management
-- Gained knowledge in backend and frontend development, resolving merge conflicts, and terminal commands
+- Gained knowledge in backend and frontend development in VS Code, resolving merge conflicts with Git, CMD, and Powershell
 
 Honors Program NEU | Honors Ambassador | Boston, MA | January 2025 - Present   
 - Represented the university’s honors program at Welcome Days, engaging with prospective students and families
 - Clarified doubts and shared personal experiences to highlight student life and opportunities the program offers
+
+Knack | Peer Tutor | Boston, MA | February 2025 - Present                                                                                                                                                 
+- Tutored undergraduate students in Organic Chemistry and Fundamentals of Computer Science, breaking down complex concepts and providing problem solving skills
+- Developed strong skills in clear communication and adaptability tailoring explanations to diverse learning styles
 
 FirstByte NEU | Volunteer | Boston, MA | September 2024 - Present
 - Developed instructional slideshows and coding exercises to teach high school students computer science skills
@@ -50,14 +54,14 @@ Mathnasium | Math Tutor | South Windsor, CT | March 2023-August 2024; May 2025
 
 ## Projects
 ViTAL Hackathon Musculoskeletal Disorders Symptom Checker | JavaScript | March 2025
-- Developed a diagnostics tool with React, HTML, CSS, JavaScript, and GitHub on a 5 member team to increase awareness in user’s potential risks for skeletal, muscular, and joint disorders
+- Developed a diagnostics tool using React, HTML, CSS, JavaScript, and GitHub, and built a CSV dataset on musculoskeletal symptoms/disorders as part of a 5-member team to raise user awareness of potential skeletal, muscular, and joint health risks
 - Begins with 5 preliminary questions and then introduces more in depth prompts, resulting with the top 3 conditions that matched the users' responses, along with percent matches, preventative care measures, and links to specific resources about each disease
 - Achieved 1st place and received positive feedback from judges about the knowledge gained from the site
 
 Connections | Java | March 2025
 - Created an NYT Connections clone with a partner implementing loops, ArrayLists, Random, and Worlds
-- Features include shuffling, deselecting all options, lives, resetting, restarting, and changing the color scheme
-- Code available upon request on GitHub
+- Features include shuffling, deselecting all options, lives, resetting, restarting, and a colorblind-friendly mode to enhance accessibility
+- Code available upon request
 
 ## Let's Connect!
 - Email: nagarur.m@northeastern.edu
