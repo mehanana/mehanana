@@ -70,7 +70,7 @@ Connections | Java | March 2025
 - Website: mehana-n.netlify.app/
 
 ## Ask me about
-<img align='right' src='' width='200"'>
+<img align='right' src='dino gif.webp' width='200"'>
 - Computer science
 - Java
 - Medicine
