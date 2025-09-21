@@ -65,7 +65,7 @@ Connections | Java | March 2025
 
 ## Let's Connect!
 <a href="https://www.linkedin.com/in/mehana-nagarur/" title="LinkedIn Profile"><img width="75" src="linkedin-logo.png">
-<a href="nagarur.m@northeastern.edu" title="Email"><img width="75" src="email-logo.png">
+<a href="mailto:nagarur.m@northeastern.edu" title="Email"><img width="75" src="email-logo.png">
 <a href="https://github.com/mehanana" title="GitHub"><img width="75" src="github-logo.png"> 
 <a href="https://mehana-n.netlify.app/" title="Personal Portfolio"><img width="75" src="name-logo.png"> 
 
